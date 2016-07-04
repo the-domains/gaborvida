@@ -1,0 +1,28 @@
+name: gaborvida
+favicon: null
+layout_spectrum: 0.8540377356112003
+typography_spectrum: 0.2879618250299245
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9483700906857848
+  lightness: 0.08678247430361807
+  saturation: 0.8454175249207765
+  rhythmicContrast: 0.8240086459554732
+purpose: []
